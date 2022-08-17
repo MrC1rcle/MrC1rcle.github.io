@@ -24,6 +24,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   This is a blog to document the projects I have done and the learning process.
 domain: MrC1rcle.github.io
 baseurl: /MrC1rcle.github.io/ # the subpath of your site, e.g. /blog
+markdown: GFM
 url: https://MrC1rcle.github.io # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 
 github_username:  MrC1rcle
