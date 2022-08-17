@@ -1,5 +1,5 @@
 ---
 layout: page
-title: HelloWorld
+title: "HelloWorld"
 permalink: /test/
 ---
